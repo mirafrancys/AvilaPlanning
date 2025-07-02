@@ -61,7 +61,8 @@
               "buildTarget": "AvilaPlanning:build:production"
             },
             "development": {
-              "buildTarget": "AvilaPlanning:build:development"
+              "buildTarget": "AvilaPlanning:build:development",
+              "port": 4205
             }
           },
           "defaultConfiguration": "development"
